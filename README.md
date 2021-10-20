@@ -4,7 +4,7 @@
 ---
 ## About
 
-> I do **.NET C# Development,** however, I know HTML and CSS pretty well.
+> I do **C#/HTML/CSS/.NET Development**.
 >
 > **I made my first C# .net app in 2017 for game modification.**
 > 
