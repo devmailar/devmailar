@@ -43,6 +43,7 @@
  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC1oHI73esbPTWS7Rn7tKtxw)
 >
   ---
-  
+  > [![Status](https://github-readme-stats.vercel.app/api?username=devmailar&show_icons=true&hide_border=true&theme=dracula)](https://github.com/devmailar)
+
 <br/>
 <br/>
