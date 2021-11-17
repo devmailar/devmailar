@@ -11,8 +11,11 @@
       I created my first coding project when I was 14 it was spamming app what I made using C#<br>
       I have very high motivation in coding and creating projects etc.<br>
       I'm currently working on C# and JavaScript.
-    </div>
+      
+      
   </p>
+        <a href="https://devmailar.github.io">Check out my website</a>
+
 <p align=left>
 <a href="https://github.com/devmailar">
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=devmailar&show_icons=true&include_all_commits=true&show_icons=true&title_color=303030&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true" alt="Statistics." /> -->
