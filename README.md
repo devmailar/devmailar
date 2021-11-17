@@ -10,7 +10,7 @@
       I like to listen music and do coding.<br>
       I created my first coding project when I was 14 it was spamming app what I made using C#<br>
       I have very high motivation in coding and creating projects etc.<br>
-      I'm currently studying C# and JavaScript.
+      I'm currently working on C# and JavaScript.
     </div>
   </p>
 <p align=left>
