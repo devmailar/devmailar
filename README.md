@@ -1,16 +1,16 @@
 
 <div>
-  <p align="center">
-    <img src="https://cdn.discordapp.com/attachments/874615249301553172/910164199534108752/coding.png" width="10%">
-    <h1 align="center" >MailarDev</h1>
+  <p align="left">
+    <img src="https://cdn-icons.flaticon.com/png/128/5433/premium/5433799.png?token=exp=1637856454~hmac=2606ba7c043b14d4c5fdc82a0de9092f" width="5%">
+    <h1 align="left">Hey, I'm Mailar</h1>
     <br>
     <div align="left">
-      Hello, I'm Mailar and I from Finland.<br>
-      In real life, people call me a Leo.<br><br>
-      I like to listen music and do coding.<br>
-      I created my first coding project when I was 14 it was spamming app what I made using C#<br>
-      I have very high motivation in coding and creating projects etc.<br>
-      I'm currently working on C# and JavaScript.
+      
+      I like to listen to music that motivates me while doing some coding.<br>
+      
+      I am a curious and idealist I like to start projects and complete projects and develop a project.<br>
+      
+      I'm currently learning Fullstack Web development (JavaScript, NodeJS, HTML/CSS).
       
       
   </p>
