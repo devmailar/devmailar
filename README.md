@@ -14,7 +14,7 @@
       
       
   </p>
-        <a href="https://devmailar.github.io">Check out my website</a>
+        <a href="https://mailardev.netlify.app/">Check out my website</a>
 <--
 <p align=left>
 <a href="https://github.com/devmailar">
