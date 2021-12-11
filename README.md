@@ -1,21 +1,7 @@
 
 <div>
   <p align="left">
-    <img src="https://cdn-icons.flaticon.com/png/128/5433/premium/5433799.png?token=exp=1637856454~hmac=2606ba7c043b14d4c5fdc82a0de9092f" width="5%">
-    <h1 align="left">Hey, I'm Mailar</h1>
-    <br>
-    <div align="left">
-      
-      I like to listen to music that motivates me while doing some coding.<br>
-      
-      I am a curious and idealist I like to start projects and complete projects and develop a project.<br>
-      
-      I'm currently learning Fullstack Web development (JavaScript, NodeJS, HTML/CSS, C#).
-      
-      
-  </p>
-        <a href="https://mailardev.netlify.app/">Check out my website</a>
-<--
+        <a href="https://mailardev.netlify.app/"> Portfolio 👌</a>
 <p align=left>
 <a href="https://github.com/devmailar">
  
@@ -28,7 +14,7 @@
 </details>
 
 <div width="100%" height="1px" style="background: linear-gradient(to right, transparent, lightgrey, transparent); margin: 10px;"></div>
-<p style="font-size: 20px;  font-weight: 500;">Skills</p>
+<p style="font-size: 20px;  font-weight: 500;">Technologies</p>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=davaScript)
 ![C#](https://img.shields.io/badge/-CSharp-000?&logo=Cdsharp)
