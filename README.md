@@ -17,12 +17,13 @@
 <p style="font-size: 20px;  font-weight: 500;">Technologies</p>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=davaScript)
-![C#](https://img.shields.io/badge/-CSharp-000?&logo=Cdsharp)
-![C#](https://img.shields.io/badge/-NodeJS-000?&logo=NodeJS)
-![C#](https://img.shields.io/badge/-Lua-000?&logo=dLua)
-![C#](https://img.shields.io/badge/-Html-000?&logo=dLua)
-![C#](https://img.shields.io/badge/-Css-000?&logo=dLua)
 ![C#](https://img.shields.io/badge/-React-000?&logo=dReact)
+![C#](https://img.shields.io/badge/-NodeJS-000?&logo=NodeJS)
+![C#](https://img.shields.io/badge/-HTML-000?&logo=dLua)
+![C#](https://img.shields.io/badge/-CSS-000?&logo=dLua)
+![C#](https://img.shields.io/badge/-CSharp-000?&logo=Cdsharp)
+![C#](https://img.shields.io/badge/-SQL-000?&logo=SQL)
+![C#](https://img.shields.io/badge/-HeidiSQL-000?&logo=HeidiSQL)
 
 <br>
 <p style="font-size: 20px;  font-weight: 500;">Other Stats</p>
