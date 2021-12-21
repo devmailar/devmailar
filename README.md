@@ -22,6 +22,7 @@
 ![C#](https://img.shields.io/badge/-Lua-000?&logo=dLua)
 ![C#](https://img.shields.io/badge/-Html-000?&logo=dLua)
 ![C#](https://img.shields.io/badge/-Css-000?&logo=dLua)
+![C#](https://img.shields.io/badge/-React-000?&logo=dReact)
 
 <br>
 <p style="font-size: 20px;  font-weight: 500;">Other Stats</p>
