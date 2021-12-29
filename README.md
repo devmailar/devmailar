@@ -26,6 +26,10 @@
 ![C#](https://img.shields.io/badge/-HeidiSQL-000?&logo=HeidiSQL)
 
 <br>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devmailar&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
+
 <p style="font-size: 20px;  font-weight: 500;">Other Stats</p>
 
 ![](https://komarev.com/ghpvc/?username=devmailar&style=flat-square)
