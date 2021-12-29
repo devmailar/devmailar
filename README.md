@@ -1,7 +1,7 @@
 
 <div>
   <p align="left">
-        <a href="https://mailardev.netlify.app/"> Portfolio 👌</a>
+       <!-- <a href="https://mailardev.netlify.app/"> Portfolio 👌</a> -->
 <p align=left>
 <a href="https://github.com/devmailar">
  
