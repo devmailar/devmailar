@@ -13,3 +13,6 @@
 
 ### Other
 ![](https://komarev.com/ghpvc/?username=devmailar&style=flat-square)
+<br>
+<a href="discord.com/users/436382841647923200/">
+<button>Discord</button> </a>
