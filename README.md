@@ -18,5 +18,5 @@
 ### Discord
 <a href="https://discord.com/users/436382841647923200/">
   
-<button>Discord</button> </a>
+  <button><strong>Profile</strong></button> </a>
 
