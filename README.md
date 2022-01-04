@@ -13,10 +13,8 @@
 
 ### Other
 ![](https://komarev.com/ghpvc/?username=devmailar&style=flat-square)
-<br>
 
-### Discord
 <a href="https://discord.com/users/436382841647923200/">
   
-  <button><strong>Profile</strong></button> </a>
+  <button><strong>Discord</strong></button> </a>
 
