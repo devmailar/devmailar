@@ -14,6 +14,8 @@
 ### Other
 ![](https://komarev.com/ghpvc/?username=devmailar&style=flat-square)
 
+<img src="https://profile-counter.glitch.me/devmailar/count.svg" />
+
 <a href="https://discord.com/users/436382841647923200/">
   
   <button><strong>Discord</strong></button> </a>
