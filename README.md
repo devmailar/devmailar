@@ -9,7 +9,6 @@
 ![C#](https://img.shields.io/badge/-CSS-000?&logo=dLua)
 ![C#](https://img.shields.io/badge/-CSharp-000?&logo=Cdsharp)
 ![C#](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![C#](https://img.shields.io/badge/-HeidiSQL-000?&logo=HeidiSQL)
 
 ### Other
 ![](https://komarev.com/ghpvc/?username=devmailar&style=flat-square)
