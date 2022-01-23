@@ -4,7 +4,7 @@
 :mailbox: kodinortka@gmail.com
 
 ### GitHub Statics  
-![Mailar's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmailar&show_icons=true&theme=radical&hide_border=true)
+![Mailar's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmailar&show_icons=true&theme=dark&hide_border=true)
 
 #### Languages & Technologies
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
