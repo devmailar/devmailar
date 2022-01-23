@@ -8,7 +8,7 @@
 ![C#](https://img.shields.io/badge/-HTML-000?&logo=dLua)
 ![C#](https://img.shields.io/badge/-CSS-000?&logo=dLua)
 ![C#](https://img.shields.io/badge/-CSharp-000?&logo=Cdsharp)
-![C#](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![C#](https://img.shields.io/badge/--000?&logo=)
 
 ### Other
 ![](https://komarev.com/ghpvc/?username=devmailar&style=flat-square)
