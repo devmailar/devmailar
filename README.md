@@ -7,7 +7,6 @@
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
-[![Csharp Badge](https://img.shields.io/badge/-Csharp-803085?style=for-the-badge&labelColor=black&logo=csharp&logoColor=803085)](#) 
 [![HTML Badge](https://img.shields.io/badge/-LUA-2365C0?style=for-the-badge&labelColor=black&logo=lua&logoColor=2365C0)](#)
 
 #### Visitors 2022
