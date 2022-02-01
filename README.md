@@ -2,9 +2,7 @@
 
 ## 👁️‍🗨️ About Me
 
-- 🌱 I’m currently learning **Full-stack web development**
-
-- 🤝 I’m looking to collaborate on **OpenSource Projects**
+- 🌱 I’m Front-end Developer
 
 - 📫 How to reach me **kodinortka@gmail.com**
 
