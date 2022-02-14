@@ -6,9 +6,13 @@
     </a>
 </div>
 
-## 🤯 Languages & Technologies
+## 🤯 Programming Languages
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
+
+[![Lua Badge](https://img.shields.io/badge/-Lua-0b0bea?style=for-the-badge&labelColor=black&logo=lua&logoColor=0b0bea)](#) 
+
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 
 ## 👋 Visitors 2022
