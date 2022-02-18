@@ -1,4 +1,8 @@
 # <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Hey, I'm Mailar 
+I am a Front-end web developer who is currently studying software development in a vocational school.
+
+My passion is to create web applications and turn them into something great that looks nice and simple. 
+
 ## 🔥 GitHub Statics  
 <div>
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
