@@ -7,10 +7,12 @@ My passion is to create web applications and turn them into something great that
 
 ## 🔥 GitHub Statics  
 <div>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mailar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=devmailar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://mailar.ml">
+        <img title="🔥 Commits" alt="Mailar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=devmailar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </div>
+
+[![Mailar's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmailar)](https://www.linkedin.com/in/leokoivunen/)
 
 ## 📚 Skills & Technologies
 
@@ -22,7 +24,5 @@ My passion is to create web applications and turn them into something great that
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 [![Nodejs Badge](https://img.shields.io/badge/-Node-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 
-
 ## 👋 Visitors 2022
 <img src="https://profile-counter.glitch.me/devmailar/count.svg" />
-
