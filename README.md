@@ -1,7 +1,9 @@
-# <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Hey, I'm Mailar 
+# Hey, I'm Mailar <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
+
 I am a Front-end web developer who is currently studying software development in a vocational school.
 
-My passion is to create web applications and turn them into something great that looks nice and simple. 
+I offer interactive and full scalable websites that are fast & simple and operates well.
+My passion is to create web applications and turn them into something great that looks nice and simple.👈
 
 ## 🔥 GitHub Statics  
 <div>
@@ -11,13 +13,15 @@ My passion is to create web applications and turn them into something great that
 </div>
 
 ## 📚 Skills & Technologies
+
+[![HTML Badge](https://img.shields.io/badge/-HTML-e14d23?style=for-the-badge&labelColor=black&logo=html&logoColor=e14d23)](#) 
+[![CSS Badge](https://img.shields.io/badge/-CSS-1370b5?style=for-the-badge&labelColor=black&logo=css&logoColor=1370b5)](#) 
+[![SCSS Badge](https://img.shields.io/badge/-SCSS-c86195?style=for-the-badge&labelColor=black&logo=SCSS&logoColor=c86195)](#) 
+
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
-
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
+[![Nodejs Badge](https://img.shields.io/badge/-Node-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 
-[![Lua Badge](https://img.shields.io/badge/-Lua-0b0bea?style=for-the-badge&labelColor=black&logo=lua&logoColor=0b0bea)](#) 
-
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 
 ## 👋 Visitors 2022
 <img src="https://profile-counter.glitch.me/devmailar/count.svg" />
