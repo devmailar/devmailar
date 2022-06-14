@@ -1,28 +1,28 @@
-# Hey, I'm Mailar <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
+## Hi, I'm Mailar 
 
-I am a Front-end web developer who is currently studying software development in a vocational school.
+I am a front-end developer and who has a passion for software development. 
+I enjoy helping you to build your software and grow your business. 
+I specialize in programming skills like javascript, react, nodejs, and typescript.
 
-I offer interactive and full scalable websites that are fast & simple and operates well.
-My passion is to create web applications and turn them into something great that looks nice and simple.👈
+<a href="https://www.linkedin.com/in/leokoivunen/">
+  <img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://mailar.ml">
+  <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+<a href="mailto:leo.s.koivunen@gmail.com">
+  <img src="https://img.shields.io/badge/-email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
 
-## 🔥 GitHub Statics  
-<div>
-    <a href="https://mailar.ml">
-        <img title="🔥 Commits" alt="Mailar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=devmailar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</div>
+### 🔥 GitHub Statics  
+[![Mailar's GitHub commits](https://github-readme-streak-stats.herokuapp.com/?user=devmailar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)](https://www.linkedin.com/in/leokoivunen/)
+[![Mailar's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmailar&theme=tokyonight&hide_border=true)](https://www.linkedin.com/in/leokoivunen/)
 
-[![Mailar's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmailar)](https://www.linkedin.com/in/leokoivunen/)
+### ⚙️ Skills
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=FFF)](#) 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=FFF)](#) 
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=FFF)](#) 
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=FFF)](#) 
 
-## 📚 Skills & Technologies
-
-[![HTML Badge](https://img.shields.io/badge/-HTML-e14d23?style=for-the-badge&labelColor=black&logo=html&logoColor=e14d23)](#) 
-[![CSS Badge](https://img.shields.io/badge/-CSS-1370b5?style=for-the-badge&labelColor=black&logo=css&logoColor=1370b5)](#) 
-[![SCSS Badge](https://img.shields.io/badge/-SCSS-c86195?style=for-the-badge&labelColor=black&logo=SCSS&logoColor=c86195)](#) 
-
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
-[![Nodejs Badge](https://img.shields.io/badge/-Node-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
-
-## 👋 Visitors 2022
+### ♾️ Visitors
 <img src="https://profile-counter.glitch.me/devmailar/count.svg" />
