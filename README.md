@@ -13,7 +13,6 @@ I specialize in programming skills like javascript, react, nodejs, and typescrip
 
 ### 🔥 GitHub Statics  
 [![Mailar's GitHub commits](https://github-readme-streak-stats.herokuapp.com/?user=devmailar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)](https://www.linkedin.com/in/leokoivunen/)
-[![Mailar's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmailar&theme=tokyonight&hide_border=true)](https://www.linkedin.com/in/leokoivunen/)
 
 ### ⚙️ Skills
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=FFF)](#) 
