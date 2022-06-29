@@ -10,9 +10,6 @@ I specialize in programming skills like javascript, react, nodejs, and typescrip
 <a href="https://mailar.ml">
   <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<a href="mailto:leo.s.koivunen@gmail.com">
-  <img src="https://img.shields.io/badge/-email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
-</a>
 
 ### 🔥 GitHub Statics  
 [![Mailar's GitHub commits](https://github-readme-streak-stats.herokuapp.com/?user=devmailar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)](https://www.linkedin.com/in/leokoivunen/)
