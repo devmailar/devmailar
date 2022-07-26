@@ -1,16 +1,5 @@
 ## Hi, I'm Mailar 
 
-I am a front-end developer and who has a passion for software development. 
-I enjoy helping you to build your software and grow your business. 
-I specialize in programming skills like javascript, react, nodejs, and typescript.
-
-<a href="https://www.linkedin.com/in/leokoivunen/">
-  <img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
-</a>
-<a href="https://mailar.ml">
-  <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=Github&logoColor=white" />
-</a>
-
 ### 🔥 GitHub Statics  
 [![Mailar's GitHub commits](https://github-readme-streak-stats.herokuapp.com/?user=devmailar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)](https://www.linkedin.com/in/leokoivunen/)
 
@@ -21,4 +10,11 @@ I specialize in programming skills like javascript, react, nodejs, and typescrip
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=FFF)](#) 
 
 ### ♾️ Visitors
+<a href="https://www.linkedin.com/in/leokoivunen/">
+  <img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://mailar.ml">
+  <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+
 <img src="https://profile-counter.glitch.me/devmailar/count.svg" />
