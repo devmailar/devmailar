@@ -1,20 +1,20 @@
-## Hi, I'm Mailar 
+## Hi! I am Mailar
 
-### 🔥 GitHub Statics  
-[![Mailar's GitHub commits](https://github-readme-streak-stats.herokuapp.com/?user=devmailar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)](https://www.linkedin.com/in/leokoivunen/)
+#### Technologies
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&labelColor=black&logo=typescript&logoColor=FFF)](#) 
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=flat-square&labelColor=black&logo=react&logoColor=FFF)](#) 
+[![Nodejs Badge](https://img.shields.io/badge/-Node-3C873A?style=flat-square&labelColor=black&logo=node.js&logoColor=FFF)](#) 
+[![SASS Badge](https://img.shields.io/badge/-Sass-c96195?style=flat-square&labelColor=black&logo=sass&logoColor=FFF)](#)
+[![Lua Badge](https://img.shields.io/badge/-Lua-00007c?style=flat-square&labelColor=black&logo=lua&logoColor=FFF)](#) 
 
-### ⚙️ Skills
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=FFF)](#) 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=FFF)](#) 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=FFF)](#) 
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=FFF)](#) 
-
-### ♾️ Visitors
-<a href="https://www.linkedin.com/in/leokoivunen/">
-  <img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
-</a>
+#### Reference
 <a href="https://mailar.ml">
-  <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=Github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Firefox&logoColor=white" />
 </a>
 
-<img src="https://profile-counter.glitch.me/devmailar/count.svg" />
+<a href="https://www.linkedin.com/in/leokoivunen/">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+</a>
+
+#### Statics of my contributions on Github 
+[![Mailar's GitHub commits](https://github-readme-streak-stats.herokuapp.com/?user=devmailar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)](https://www.linkedin.com/in/leokoivunen/)
