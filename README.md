@@ -8,7 +8,7 @@
 [![Lua Badge](https://img.shields.io/badge/-Lua-00007c?style=flat-square&labelColor=black&logo=lua&logoColor=FFF)](#) 
 
 #### Reference
-<a href="https://mailar.ml">
+<a href="https://mailar.netlify.app/">
   <img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Firefox&logoColor=white" />
 </a>
 
