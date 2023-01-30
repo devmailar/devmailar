@@ -1,5 +1,5 @@
 ### Expertise
-My skills i have worked with
+Skills i have experience with
 
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&labelColor=black&logo=typescript&logoColor=FFF)](#) 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=flat-square&labelColor=black&logo=react&logoColor=FFF)](#) 
