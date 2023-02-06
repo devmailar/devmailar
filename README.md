@@ -10,5 +10,5 @@ Skills i have experience with
 ### Contributions 
 Statistics of Github commits
 
-[![Mailar's GitHub commits](https://github-readme-streak-stats.herokuapp.com/?user=devmailar&theme=black-ice&hide_border=true&stroke=0000&background=000000)](https://www.linkedin.com/in/leokoivunen/)
+[![Mailar's GitHub commits](https://github-readme-streak-stats.herokuapp.com/?user=devmailar&theme=black-ice&hide_border=true&stroke=00e7ff&background=161b22)](https://www.linkedin.com/in/leokoivunen/)
 
