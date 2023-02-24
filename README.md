@@ -16,4 +16,4 @@ I am proficient working with the following technologies
 ### Stats   ☕
 Statistics of my contributions
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devmailar&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devmailar&theme=onedark&hide_border=true)](https://git.io/streak-stats)
