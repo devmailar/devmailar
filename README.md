@@ -3,8 +3,10 @@
 I am a dedicated software developer with a passion for developing innovative solutions using agile software development methods. 
 My background includes developing full-stack web applications and microservices using modern technologies.
 
+---
+
 ### Tech
-I am experienced working with the following technologies and services
+Experienced in working with the following services and technologies
 
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-304c5c?style=flat-square&labelColor=black&logo=typescript&logoColor=FFF)](#) 
 [![React Badge](https://img.shields.io/badge/-React-304c5c?style=flat-square&labelColor=black&logo=react&logoColor=FFF)](#) 
@@ -18,7 +20,5 @@ I am experienced working with the following technologies and services
 [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-304c5c?style=flat-square&labelColor=black&logo=postgresql&logoColor=FFF)](#)
 [![Spinnaker Badge](https://img.shields.io/badge/-Spinnaker-304c5c?style=flat-square&labelColor=black&logo=spinnaker&logoColor=FFF)](#)
 
-### Stats
-Statistics of my contributions
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devmailar&theme=onedark&hide_border=true)](https://git.io/streak-stats)
+---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devmailar&theme=nord&border_radius=10&hide_border=true&mode=weekly)](https://git.io/streak-stats)
