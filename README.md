@@ -1,24 +1,25 @@
-### Hello,
+# 👋 Hello
 
-I am a dedicated software developer with a passion for developing innovative solutions using agile software development methods. 
-My background includes developing full-stack web applications and microservices using modern technologies.
+I am a dedicated software developer with a passion for developing innovative solutions using agile software development methods. My experience includes developing full-stack web applications and microservices working with modern technologies.
 
----
+### 🌍 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/leokoivunen)
+[![Portfolio](https://img.shields.io/badge/Portfolio-202020.svg?logo=React&logoColor=white)](https://mailar.netlify.app/)
 
-### Tech
-Experienced in working with the following services and technologies
 
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-304c5c?style=flat-square&labelColor=black&logo=typescript&logoColor=FFF)](#) 
-[![React Badge](https://img.shields.io/badge/-React-304c5c?style=flat-square&labelColor=black&logo=react&logoColor=FFF)](#) 
-[![Nodejs Badge](https://img.shields.io/badge/-Node-304c5c?style=flat-square&labelColor=black&logo=node.js&logoColor=FFF)](#) 
-[![Spring Badge](https://img.shields.io/badge/-Spring-304c5c?style=flat-square&labelColor=black&logo=spring&logoColor=FFF)](#) 
-[![SASS Badge](https://img.shields.io/badge/-Sass-304c5c?style=flat-square&labelColor=black&logo=sass&logoColor=FFF)](#)
-[![Firebase Badge](https://img.shields.io/badge/-Firebase-304c5c?style=flat-square&labelColor=black&logo=firebase&logoColor=FFF)](#)
-[![AWS Badge](https://img.shields.io/badge/-AWS-304c5c?style=flat-square&labelColor=black&logo=amazon&logoColor=FFF)](#)
-[![Docker Badge](https://img.shields.io/badge/-Docker-304c5c?style=flat-square&labelColor=black&logo=docker&logoColor=FFF)](#)
-[![Jenkins Badge](https://img.shields.io/badge/-Jenkins-304c5c?style=flat-square&labelColor=black&logo=jenkins&logoColor=FFF)](#)
-[![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-304c5c?style=flat-square&labelColor=black&logo=postgresql&logoColor=FFF)](#)
-[![Spinnaker Badge](https://img.shields.io/badge/-Spinnaker-304c5c?style=flat-square&labelColor=black&logo=spinnaker&logoColor=FFF)](#)
 
----
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devmailar&theme=nord&border_radius=10&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+### ⌨️ Tech Stack
+[![Typescript](https://img.shields.io/badge/Typescript-2f72bc?logo=typescript&logoColor=FFF)](#)
+[![React](https://img.shields.io/badge/React-00d1f2?logo=react&logoColor=FFF)](#) 
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=FFF)](#) 
+[![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=FFF)](#) 
+[![Nodejs](https://img.shields.io/badge/Node-83b256?logo=node.js&logoColor=FFF)](#) 
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-304c5c?logo=postgresql&logoColor=FFF)](#) 
+
+[![Firebase](https://img.shields.io/badge/Firebase-232F3E?logo=firebase&logoColor=FFF)](#) 
+[![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=FFF)](#) 
+[![Jenkins](https://img.shields.io/badge/Jenkins-304c5c?&logo=jenkins&logoColor=FFF)](#)
+[![Docker](https://img.shields.io/badge/Docker-22afdf?logo=docker&logoColor=FFF)](#) 
+[![SASS](https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=FFF)](#) 
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=FFF)](#) 
+[![HTML](https://img.shields.io/badge/HTML-d84924?logo=html5&logoColor=FFF)](#) 
