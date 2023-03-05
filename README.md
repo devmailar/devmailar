@@ -19,7 +19,7 @@ I am a dedicated software developer with a passion for developing innovative sol
 [![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=FFF)](#) 
 [![Jenkins](https://img.shields.io/badge/Jenkins-304c5c?&logo=jenkins&logoColor=FFF)](#)
 [![Docker](https://img.shields.io/badge/Docker-22afdf?logo=docker&logoColor=FFF)](#) 
-[![SASS](https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=FFF)](#) 
+[![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=FFF)](#) 
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=FFF)](#) 
 [![HTML](https://img.shields.io/badge/HTML-d84924?logo=html5&logoColor=FFF)](#) 
 
