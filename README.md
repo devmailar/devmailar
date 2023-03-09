@@ -21,4 +21,4 @@ My experience includes developing full-stack web applications and microservices 
 
 #### Projects
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=devmailar&repo=movieland&border_color=282c34&bg_color=21252b&title_color=C9D1D9&text_color=e6e6e6&icon_color=e6e6e6)](https://github.com/devmailar/movieland)
-[![Web Projects](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=devmailar&langs_count=8&layout=compact&theme=react&border_color=282c34&bg_color=21252b&title_color=e6e6e6&icon_color=F8D866)](#)
+[![Web Projects](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=devmailar&langs_count=4&layout=compact&theme=react&border_color=282c34&bg_color=21252b&title_color=e6e6e6&icon_color=F8D866)](#)
