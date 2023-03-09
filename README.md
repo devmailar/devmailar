@@ -1,14 +1,10 @@
-# 👋 Hello
+### 👋 Hello
+I am a dedicated software developer with a passion for developing innovative solutions using agile software development methods. 
+My experience includes developing full-stack web applications and microservices working with modern technologies.
 
-I am a dedicated software developer with a passion for developing innovative solutions using agile software development methods. My experience includes developing full-stack web applications and microservices working with modern technologies.
-
-### 🌍 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/leokoivunen)
 [![Portfolio](https://img.shields.io/badge/Portfolio-202020.svg?logo=React&logoColor=white)](https://mailar.netlify.app/)
 
-
-
-### ⌨️ Tech Stack
+#### Technologies
 [![Typescript](https://img.shields.io/badge/Typescript-2f72bc?logo=typescript&logoColor=FFF)](#)
 [![React](https://img.shields.io/badge/React-00d1f2?logo=react&logoColor=FFF)](#) 
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=FFF)](#) 
@@ -23,4 +19,6 @@ I am a dedicated software developer with a passion for developing innovative sol
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=FFF)](#) 
 [![HTML](https://img.shields.io/badge/HTML-d84924?logo=html5&logoColor=FFF)](#) 
 
-![](https://komarev.com/ghpvc/?username=devmailar&style=flat-square)
+#### Projects
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=devmailar&repo=movieland&border_color=282c34&bg_color=21252b&title_color=C9D1D9&text_color=e6e6e6&icon_color=e6e6e6)](https://github.com/devmailar/movieland)
+[![Web Projects](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=devmailar&langs_count=8&layout=compact&theme=react&border_color=282c34&bg_color=21252b&title_color=e6e6e6&icon_color=F8D866)](#)
