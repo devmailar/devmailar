@@ -8,4 +8,4 @@ Agile software developer with a passion for creating innovative solutions using 
     Front-end: React, Vite, HTML5, CSS3
     Back-end: Express, Node.js
 #### Projects
-[Easytodo](https://github.com/devmailar/easytodo)
+[Easytodo]([https://github.com/devmailar/easytodo](https://github.com/devmailar/easytodo/tree/new-todo-app))
