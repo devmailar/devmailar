@@ -1,3 +1,11 @@
-Dedicated software developer with a passion for creating innovative solutions using agile software development methodologies. My expertise includes consulting, full-stack web applications and microservices with modern technologies. I'm  Happy to learn new skills, patterns, architectural development and design solving problems while writing better code.
+## About
 
-Recently, I have mostly been programming with **React, JS, TS, Spring Boot, Java** but I have experience on various of other programming languages as well. Currently I work at consulting company as a software developer developing web applications and microservices with technologies such as Docker, AWS, Jenkins, Java, Spring, PostgreSQL, React, Javascript, Typescript, Node.js/Express, HTML5 and CSS3.
+Agile software developer with a passion for creating innovative solutions using agile development methodologies. My experience includes consulting, software development and microservices. Using AWS, Docker, React, Typescript, Spring, Java. I'm learning new skills, patterns, architectural development and design solving problems while writing better code.
+
+#### Skills and Technologies
+    Programming Languages: Javascript, Java, Node.js
+    Tools and Frameworks: AWS, React, Express, Docker, PostgreSQL
+    Front-end: React, Vite, HTML5, CSS3
+    Back-end: Express, Node.js
+#### Projects
+[Easytodo](https://github.com/devmailar/easytodo)
