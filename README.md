@@ -8,6 +8,3 @@ Agile software developer with a passion for creating innovative solutions using 
     Back-end: Express, Node.js, Spring
 ### Projects
 * [Easytodo](https://github.com/devmailar/easytodo/tree/new-todo-app)
-
-### Get in Touch
-Feel free to reach out to me via LinkedIn.
