@@ -1,4 +1,4 @@
-<img src="https://github.com/devmailar/devmailar/assets/83369389/b5590ce7-024b-49ff-a1d7-5b8b360f2f43" alt="My Badges">
+<img src="https://media.tenor.com/dzy-pFp4GhoAAAAC/seriously-animation.gif" alt="My Badges">
 
 ### Skills and Technologies
     Programming Languages: Javascript, Java
