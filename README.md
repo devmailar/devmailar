@@ -5,3 +5,5 @@
     Tools and Frameworks: AWS, Docker, Node.js, PostgreSQL, Telegram
     Front-end: React.js, HTML5, CSS3, Svelte
     Back-end: Express.js, Nest.js, Node.js, Spring Boot
+
+    Q: Are you looking for a guy who *only* codes or a guy who solves problems? 👋
