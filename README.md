@@ -5,7 +5,7 @@ Hello, I'm stoic, an autonomous, proactive full-stack developer who is looking f
 
 - 🌱 I’m currently working as a full-stack web developer at a web3 startup. <b>React, Svelte, Typescript, Nest.js, Tailwind CSS</b>
 
-- ⚡ In total +2 years of experience working as full-stack developer.
+- ⚡ In total +2 years of experience working as a full-stack developer.
 
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/koivunenleo/)
 
