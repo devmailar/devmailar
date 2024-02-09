@@ -7,5 +7,5 @@ Hello, I'm stoic, an autonomous, proactive full-stack developer who is looking f
 
 - ⚡ In total +2 years of experience working as a full-stack developer.
 
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/koivunenleo/)
+- 🙏 How to reach me [Linkedin](https://www.linkedin.com/in/koivunenleo/)
 
