@@ -1,3 +1,8 @@
 <img src="https://github.com/devmailar/devmailar/assets/83369389/98cca079-8da3-41ce-803c-92b8cad67fd7" alt="code" width="200" />
 
-👋  Hi, I'm Stoic, autonomous, proactive full-stack developer who seeks for new opportunities and spaces for growth. If you like to you can check out my [Linkedin Profile](https://www.linkedin.com/in/koivunenleo/) and projects to get better sense of my expertise and past experience. 
+👋  Hi, I'm Stoic, an autonomous, proactive full-stack developer who seeks new opportunities and spaces for growth. I use my time to learn new technologies and work on side projects, such as my upcoming game server.
+
+🌱 I’m currently working as a full-stack web developer at a web3 startup. <code>:: React, Svelte, Typescript, Nest.js, Tailwind CSS</code>
+
+📫 How to reach me [Linkedin](https://www.linkedin.com/in/koivunenleo/)
+
