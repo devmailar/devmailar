@@ -7,7 +7,7 @@
 # 👋 
 Hello, I'm stoic, an autonomous, proactive full-stack developer who is looking for new opportunities and spaces for growth. I intend to use my time to learn new technologies and work on side projects, such as my upcoming game server project.
 
-- 🌱 I’m currently working as a full-stack web developer at a web3 startup. <b>React, Svelte, Typescript, Nest.js, Tailwind CSS</b>
+- 🌱 I’m currently working as a full-stack web developer at a web3 startup. <b>React, Svelte, Typescript, Nest.js, PostgreSQL, Tailwind CSS</b>
 
 - ⚡ In total +2 years of experience working as a full-stack developer.
 
