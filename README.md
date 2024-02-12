@@ -4,10 +4,13 @@
 </a>
 
 <br />
-Hello! 👋🏻 My name is Leo, and I am proactive full-stack developer. I use my time to learn about new technologies and build amazing products, such as my whale.
-
-- 🌱 I’m currently working as a full-stack web developer at a web3 startup.<br><b>React, Svelte, Typescript, Nest.js,PostgreSQL, Tailwind CSS</b>
-
-- ⚡ In total +2 years of experience working as a full-stack developer.
-
-- 🙏 How to reach me [Linkedin](https://www.linkedin.com/in/koivunenleo/)
+Hello! 👋🏻 My name is Leo, and I am proactive full-stack web developer. I invest most of<br>my time to build amazing products and discover new technologies.
+<br />
+<br />
+🌱 I’m currently working as a full-stack web developer at a web3 startup.<br><b>React, Svelte, Typescript, Nest.js,PostgreSQL, Tailwind CSS</b>
+<br />
+<br />
+⚡ In total i have been working for +2 years in the industry working as a full-stack developer.
+<br />
+<br />
+🙏 How to reach me [Linkedin](https://www.linkedin.com/in/koivunenleo/)
