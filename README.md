@@ -4,7 +4,7 @@
 </a>
 
 <br />
-Hello! 👋🏻 My name is Leo, and I am proactive full-stack developer who seeks for new opportunities and spaces for growth. I use my time to learn about new technologies and work on side projects, such as my upcoming game server project.
+Hello! 👋🏻 My name is Leo, and I am proactive full-stack developer. I use my time to learn about new technologies and build amazing products, such as my whale.
 
 - 🌱 I’m currently working as a full-stack web developer at a web3 startup.<br><b>React, Svelte, Typescript, Nest.js,PostgreSQL, Tailwind CSS</b>
 
