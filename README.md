@@ -10,7 +10,8 @@ Hello! 👋🏻 My name is Leo, and I am proactive full-stack web developer. I i
 🌱 I’m currently working as a full-stack web developer at a web3 startup.<br><b>React, Svelte, Typescript, Nest.js,PostgreSQL, Tailwind CSS</b>
 <br />
 <br />
-⚡ In total i have been working for +2 years in the industry working as a full-stack developer.
+⚡ As an full-stack developer, I been working over 2 yrs in the industry.
 <br />
 <br />
-🙏 How to reach me [Linkedin](https://www.linkedin.com/in/koivunenleo/)
+🙏 How to reach me 
+<a href="https://www.linkedin.com/in/koivunenleo/">Linkedin</a>
