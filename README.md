@@ -13,5 +13,5 @@ Hello! 👋🏻 My name is Leo, and I am pragmatic mid-level full-stack develope
 <a href="https://www.linkedin.com/in/koivunenleo/">Linkedin</a>
 <br />
 <br />
-🛠️ Bosset version 0.1
+🔥 Bosset version 0.1
 https://t.me/Bosset_bot
