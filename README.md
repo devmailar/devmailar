@@ -9,9 +9,10 @@ Hello! 👋🏻 My name is Leo, and I am pragmatic mid-level full-stack develope
 ⚡ As an full-stack developer, I been working over 2 yrs in the industry.
 <br />
 <br />
+🔥 Bosset version 0.1
+<a href="https://t.me/Bosset_bot">Check it now!</a>
+<br />
+<br />
 🙏 How to reach me 
 <a href="https://www.linkedin.com/in/koivunenleo/">Linkedin</a>
-<br />
-<br />
-🔥 Bosset version 0.1
-https://t.me/Bosset_bot
+
