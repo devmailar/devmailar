@@ -4,8 +4,8 @@ Hello! 👋🏻 My name is Leo, and I am proactive full-stack developer. I inves
 🌱 I am currently working as a full-stack developer in R&D startup.<br><b>React.js, Typescript, Fastify, Svelte, Postgresql, Tailwind CSS</b>
 <br />
 <br />
-💡 Bosset version 0.1!
-<a href="https://t.me/Bosset_bot">Check it now</a>
+💡 Budget Partner
+<a href="https://budgetpartner.app">Check it now</a>
 <br />
 <br />
 🙏 How to reach me?
