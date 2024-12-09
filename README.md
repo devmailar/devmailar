@@ -3,4 +3,4 @@
 * 🧰 React, Typescript, Fastify, PostgreSQL, Tailwind CSS
 * 📫 How to reach me [Linkedin](https://www.linkedin.com/in/koivunenleo/)
 * 🫡 Check out my app [BudgetPartner](https://www.budgetpartner.app/)
-* 🤩 Did you know about [this](https://github.com/tsconfig/bases)?
+* 🤩 Did you know about [Bases?](https://github.com/tsconfig/bases)
