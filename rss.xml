@@ -1,0 +1,37 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Hi, I'm Leo - I write code</title>
+    <description>Lorem ipsum dolor sit.</description>
+    <link>https://devmailar.github.io/</link>
+    <atom:link href="https://devmailar.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 25 Feb 2025 16:26:18 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Feb 2025 16:26:18 +0000</lastBuildDate>
+    <generator>Jekyll v3.9.1</generator>
+    <item>
+      <title>Hello</title>
+      <description>I'm a fullstack developer with main focus on Research and Development. Past 3 years I worked with big and small software projects and from those I want to mention asti.hel.fi.</description>
+      <pubDate>Tue, 25 Feb 2025 16:26:18 +0000</pubDate>
+      <link>https://devmailar.github.io/</link>
+      <category>Programming</category>
+      <category>About</category>
+    </item>
+    <item>
+      <title>ASTI Project</title>
+      <description>Digital e-service to apply for a place in early childhood education or enrol a child to school.</description>
+      <pubDate>Tue, 25 Feb 2025 16:26:18 +0000</pubDate>
+      <link>https://devmailar.github.io/projects#asti</link>
+      <category>Java</category>
+      <category>Typescript</category>
+      <category>Programming</category>
+    </item>
+    <item>
+      <title>WHALE Project</title>
+      <description>Online igaming platform and sportsbook.</description>
+      <pubDate>Tue, 25 Feb 2025 16:26:18 +0000</pubDate>
+      <link>https://devmailar.github.io/projects#whale</link>
+      <category>Javascript</category>
+      <category>Typescript</category>
+      <category>Programming</category>
+    </item>
+  </channel>
+</rss>
