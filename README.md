@@ -1,11 +1,11 @@
-<img width="2433" height="781" alt="image" src="https://github.com/user-attachments/assets/95263db8-b27b-469c-80a1-ad905657dc0e" />
-*BearPourerNight* is my first game that I ever created using Unreal Engine it's a timer based game where you have 2 minutes to hold your aim and kill 10 deadly bears. It features grabbing system and objective hook and fun flying bears :3
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/95263db8-b27b-469c-80a1-ad905657dc0e" />
+BearPourerNight is the first game I developed and published on itch.io.
 https://bloodbeatgames.itch.io
 
----
-<img width="2556" height="350" alt="image" src="https://github.com/user-attachments/assets/0ef9482a-8426-438d-a6f6-efc0622d941d" />
-*Lato3000* is my new game developer targeting mobile markets our motto is "We are trying to make great mobile games for you! Youtube subscribes keeps us going🏎️"
+<img width="400" height="400" alt="Test3" src="https://github.com/user-attachments/assets/4803af93-4700-4c7f-a930-775e8fde56a5" />
 
-https://www.youtube.com/@latogames
+Lato3000 is a game development brand and attempt study to create entertaining mobile games for the mobile game market.
 
 https://play.google.com/store/apps/dev?id=4779991275469449435
+
+https://www.youtube.com/@latogames
