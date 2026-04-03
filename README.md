@@ -2,4 +2,4 @@
 BearPourerNight is the first game i developed and published on itch.io
 https://bloodbeatgames.itch.io
 
-These days im developing games in Unreal or S&box Game engine
+These days im developing games in Unreal / S&box Game engine
