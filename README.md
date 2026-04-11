@@ -1,8 +1,1 @@
-
-<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/95263db8-b27b-469c-80a1-ad905657dc0e" />
-BearPourerNight is the first game i developed and published on itch.io
-https://bloodbeatgames.itch.io
-
-These days im developing video games in Unreal / S&box Game engine
-![Alt text](https://i.imgur.com/EnCP7lA.png "Optional title")
-![Alt text](https://i.imgur.com/EpmfEaX.png "Optional title")
+<img width="527" height="1092" alt="image" src="https://github.com/user-attachments/assets/602f4c86-6612-4f44-8053-af204e3524d0" />
